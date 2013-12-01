@@ -6,3 +6,18 @@ since april, and is starting to get ready. I’d like any feedback on
 things people like/dislike in linux, as my OS resembles it somewhat
 (same physical layout of the file-system (due to practical reasons)
 among other things).
+
+Likes:
+  * GPL
+  * POSIX compatible
+  * mature (stable/robust)
+  * large community
+  * fast
+  * multi platform
+
+Dislikes:
+  * UNIX style file permissions
+  * drivers in the kernel tree
+  * takes too long to compile
+  * written in language that has no namespacing
+  * written in language with a large vague and sometimes stupid specification
